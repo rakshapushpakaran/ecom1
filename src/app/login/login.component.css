@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color:rgb(53, 206, 135);
+}
+h2{
+    text-align: center;
+    color: #be0db6;
+}
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+  }
+  
+  mat-card {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  mat-card-header {
+    background-color: #be0db6;
+    color: white;
+  }
+  
+  mat-card-content {
+    padding: 20px;
+  }
+  
+  mat-form-field {
+    width: 100%;
+  }
+  
+  button {
+    width: 100%;
+    margin-top: 40px;
+  }
+ button:hover{
+    color: #be0db6;
+ }

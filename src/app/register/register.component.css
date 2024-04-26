@@ -1,0 +1,31 @@
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  mat-card {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  mat-card-header {
+    background-color: #be0db6;
+    color: white;
+  }
+  
+  mat-card-content {
+    padding: 20px;
+  }
+  
+  mat-form-field {
+    width: 100%;
+  }
+  
+  button {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
